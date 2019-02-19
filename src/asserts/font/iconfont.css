@@ -1,0 +1,37 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1548927875682'); /* IE9 */
+  src: url('iconfont.eot?t=1548927875682#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPYAAsAAAAACRgAAAOLAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDSAqFBIQmATYCJAMYCw4ABCAFhG0HXRvhBxEVnNvIfh7YblMa0Q4xLJ/5nMiQr2ozNLjvQUT+1VeP9unuw1AIMCSc7ebUugcgQmWZsHTy9Y9dR062fLK6GiCALXZVMf5wv9RLvwPLZ9/OJTuocskD2oCikkYTK5DjCeqW4VUHuRt3Q4CAzAqSmrUbtsTDoB8kgAzs16cbXkKNqcgVPARXcKZBlmLx1Dx1mRZLvN+XT8R5oLAa/cimvWv1pOrbxx+tnhqfqqODgtOfEWDPAw0UBAZkYqF5NDoIF6QJ5L9gqA9EeCjM28fvJrxb/qHXRxuPk+DrdiEy/uWBQbAoNIgDZ0cANKSUlh3kWAgMvJuAQODdcgQWPvRCoOCjlXDqctdjdQpwjhb/KXzOYxSCEMNLn8xEvu5NakxSY7sed++2vnevzZ071cKAcPt2S2Gr5KcGx2/3ab06ZSuav23q9jCBVWn+10xIlCQTIhXoSBJ0qBK6hBIcuk4rnBAQEsq0m2MDpt4olSdMpiQevSUSDFd0QphkwS3RFdcOEudfbydJ0CTKgGj+StTUVWHCgjXslla3DSTskR1GT0jB2i7j1IYNapzBcBj20Q2YUGN8/YJ/m/r0YZU+c0YjwSrMwIo+ZJ5a8K/++Ak1LuZeuoYbXjUxWcZkiVWHuxpLF4yl+LXWWa4NWpvH0PL2ztY7s65z7FBKETK8lB051mWWo4RZk7LWZY641jkoIRYXG1uO3Vn7i61pzbVvRWNzY8RQfnpen3mqRsEydWgAsyCQPfUx9ZwW6AKy08Mp61D1/WdZDM1/vOvQJUnFP15oALg/9vUMbIzfMS3U8MYlgDm/BgfYZhSernFGam0tDgEcTfEAUEBAAPwQ9uSe9iVNBSaCSFNFoIiRCTQeOdEGXxAsISXB4VEFAgqoc35ICsPRiPGB/GYhEJLaC4pEjoEmqStog38CltS+gCNpGgJwf22vOLUrnxwYlWACzx/kmhpj6mTi514xfVWK4zyP9Ifsch9EfpiOXbBB7uMY905jEQOGqYYzuh9WFYFlKlCLn4nYfRCYog/yNdWtiQOGFIES4OkH5DTSMM76YpL5+SuUeqkoXNFSpv+DmJNvHkR8IQB9ETeglnN5j/OWiglhAIORGjgjI6qMMAG2eLcC0oQvaxG09gLSzUDF/vjS+ipvAAL6E11KtBix4iTGYJTSS/p13rxcz1b2ESvNmOTiacWJ55gdm5Gy1gkxtloA') format('woff2'),
+  url('iconfont.woff?t=1548927875682') format('woff'),
+  url('iconfont.ttf?t=1548927875682') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1548927875682#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-logout:before {
+  content: "\e77b";
+}
+
+.icon-minus:before {
+  content: "\e965";
+}
+
+.icon-plus:before {
+  content: "\ea05";
+}
+
+.icon-credit-card-scan:before {
+  content: "\e6dc";
+}
+
+.icon-appstore:before {
+  content: "\e792";
+}
+

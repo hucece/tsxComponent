@@ -25,9 +25,10 @@ export interface imgGalleryToolsPropsType {
   // 点击工具栏的按钮
   toolsActionClickHandler: (arg: string) => any,
   // 序号是否可见
-  isIndexNumVisible?: boolean,
+  isIndexNumVisible: boolean,
   // 序号
   indexNum?: number,
+  [key: string]: any,
 }
 
 export interface imgGalleryViewerPropsType {
@@ -35,4 +36,13 @@ export interface imgGalleryViewerPropsType {
   imgScale: number,
   // 当前图片的信息
   curImgInfo: curImgInfoPropsType,
+  // 设置是初始化的图片缩放比例
+  initImg: (arg: number) => any,
+}
+
+export interface imgGalleryDataSourcePropsType {
+  // 图片列表
+  imgList: Array<string>,
+  // 当前图片
+  curImgIndex: number,
 }
